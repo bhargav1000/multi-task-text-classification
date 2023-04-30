@@ -9,6 +9,6 @@ The primary objective of this project is to classify whether a tweet contains a 
 
 # Team Members:
 ---
-Sagiraju Bhargav
-Wen Xuan
+Sagiraju Bhargav <br>
+Wen Xuan <br>
 Hu Jiaqi 
