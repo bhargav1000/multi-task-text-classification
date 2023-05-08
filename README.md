@@ -10,6 +10,7 @@ Disaster Tweet Classification <!-- omit from toc -->
 - [Team Members](#team-members)
 
 
+<<<<<<< HEAD
 Summary
 ------------
 Developed and trained a BERT-based multi-task model to classify tweets whether they refer to a real disaster or not. The multi-task model leverages a separete tweet dataset with sentiment labels to help in the disaster classification task. This is achieved by utilizing a neural network architecture with two heads, one for disaster classification (Task 1) and one for sentiment classification (Task 2). A weighted loss (utilizes adversarial training), which weights and sums the losses of the two classification tasks is ultimately used during back propagation to incorporate sentiment information during training. The weights of the loss function are tuned using Bayesian Optimization which maximizes the F1 score of Task 1.
@@ -73,3 +74,9 @@ Team Members
 - Bhargav Sagiraju
 - Xuan Wen
 - Jiaqi Hu
+=======
+# Team Members:
+Sagiraju Bhargav <br>
+Wen Xuan <br>
+Hu Jiaqi 
+>>>>>>> 1d76ef151ed757e7b91668f7ff7791043629da92
