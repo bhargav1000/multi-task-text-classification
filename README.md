@@ -1,6 +1,9 @@
 Disaster Tweet Classification <!-- omit from toc -->
 ==============================
 
+A BERT-based multi-task model to classify whether a Tweet is a Disaster or not and also to classify the Sentiment of the Tweet. 
+
+
 - [Summary](#summary)
 - [Data Sources](#data-sources)
 - [Results](#results)
